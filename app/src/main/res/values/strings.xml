@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2_Dialogs</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="button">Button</string>
+    <string name="open">open</string>
+    <string name="enter_the_text">Enter the Text</string>
+    <string name="uppercase">UpperCase</string>
+    <string name="lowercase">LowerCase</string>
+    <string name="intermediatecase">IntermediateCase</string>
+    <string name="check_me">Check me</string>
+    <string name="finish">Finish</string>
+    <string name="display_text">Display Text</string>
+</resources>
